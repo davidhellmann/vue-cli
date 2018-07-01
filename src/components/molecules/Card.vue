@@ -7,7 +7,7 @@
 
 <script>
 // @ is an alias to /src
-import Headline from '@/components/Headline.vue';
+import Headline from '@/components/atoms/Headline.vue';
 
 export default {
   name: 'Card',
